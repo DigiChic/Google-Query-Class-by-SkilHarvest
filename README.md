@@ -1,4 +1,13 @@
 # Skill-Harvest-Data-Documentation
+
+**Documentation Outline**
+- [Project overview](#project-overview)
+- Data Sources
+- Tools for analysis
+- Data Cleaning and Preparation
+- [Results Findings](#results-findings)
+
+  
 # Project overview
 This data
 
@@ -12,3 +21,7 @@ This data
 
 ## Data Cleaning and Preparation
 ## Results/Findings
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | ----------| --------- |
+| Data 1 | Data 2 | Data 3 |
