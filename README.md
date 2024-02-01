@@ -20,7 +20,8 @@ This data
 - Microsoft PowerPoint (For Presentation)
 
 ## Data Cleaning and Preparation
-## Results/Findings
+
+## Results Findings
 
 | Heading 1 | Heading 2 | Heading 3 |
 | --------- | ----------| --------- |
