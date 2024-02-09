@@ -2,15 +2,18 @@
 
 **Documentation Outline**
 - [Project overview](#project-overview)
-- Data Sources
-- Tools for analysis
-- Data Cleaning and Preparation
+- [Data Sources](data-sources)
+- [Tools for analysis](tools-for-analysis)
+- [Data Cleaning and Preparation](data-cleaning-and-preparation)
 - [Results Findings](#results-findings)
 
   
 # Project overview
 This data looks at Google Query which was the first module treated at the SkilHarvest Data Analysis class.
-What is Google Query? Google Query is like a magical treasure chest for numbers and words.
+
+What is Google Query? 
+
+Google Query is like a magical treasure chest for numbers and words.
 
 **What does it do?**
 - It helps you find answers to tricky questions about data.
@@ -19,7 +22,9 @@ What is Google Query? Google Query is like a magical treasure chest for numbers 
 - Google Query is like a secret code that unlocks hidden knowledge. 
 
 ## Data Sources
-
+- The data used was provided by the SkilHarvest Intsructor, Mr. TeeDee
+- Here is pictorial view of the cross-section of the data
+-  
 ### Tools for analysis
 - MS Excel [Download here](https:/www.microsoft.com)
 - SQL Server (For Querying and Analysis)
