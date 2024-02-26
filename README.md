@@ -26,7 +26,7 @@ Google Query is like a magical treasure chest for numbers and words.
 - Here is pictorial view of the cross-section of the data
 -  ![ ](SkilHarvest_Stationary_Supplies.png)
   
-# Tools for analysis and visualization
+# Tools for analysis
 - Google Sheets [You can find it here](https://docs.google.com/spreadsheets/u/0/?ec=asw-sheets-hero-goto)
 
 # Data Cleaning and Preparation
