@@ -30,8 +30,9 @@ Google Query is like a magical treasure chest for numbers and words.
 - Google Sheets [You can find it here](https://docs.google.com/spreadsheets/u/0/?ec=asw-sheets-hero-goto)
 
 # Data Cleaning and Preparation
-- Data cleaning which is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset
-- The data used was clean and analysed
+- Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset
+- Clean data ensures that the data analysed is consistent and can be analysed accurately
+- The data used was clean and then analysed
 
 # Results Findings
 
