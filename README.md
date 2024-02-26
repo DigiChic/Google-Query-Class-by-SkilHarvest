@@ -37,16 +37,27 @@ Google Query is like a magical treasure chest for numbers and words.
 # Results Findings
 - The questions and answers from the data set is as listed below
 - Show sales of binder items and pencil
+- 
 =QUERY(A:H, "SELECT B, C WHERE C = 'Pen Set' OR C = 'Binder' ", 1)
+
 - Show sales of binder items and pencil in 2015
+- 
 =QUERY(A:H,"SELECT C,F,H WHERE (C = 'Binder' OR C = 'Pencil') AND F = 2015",1)
+
 - Sales in Central and East region in 2014
+- 
 =QUERY(A:H, "SELECT A,F,H WHERE (A = 'East' OR A = 'Central') AND F = 2014" , 1)
+
 - Sales in August and September 2014
+- 
 =QUERY(A:H, "SELECT C,E,F,H WHERE (E = 'Aug' OR E = 'Sep') AND F = 2014 ", 1)
-- Show sales of items that start with Pen, include their region, sales rep and year.
+
+- Show sales of items that start with Pen, include their region, sales rep and year
+- 
 =QUERY(A:H, "SELECT A, B, C, F, H WHERE C LIKE 'Pen%' ", 1)
+
 - Show sales of items that end with ‘sk’, include their region, sales rep and year
+- 
 =QUERY(A:H, "SELECT A, B, C, F WHERE C LIKE '%sk' ", 1)
 
 | Heading 1 | Heading 2 | Heading 3 |
