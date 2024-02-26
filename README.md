@@ -29,10 +29,11 @@ Google Query is like a magical treasure chest for numbers and words.
 ### Tools for analysis and visualization
 - Google Sheets [You can find it here](https://docs.google.com/spreadsheets/u/0/?ec=asw-sheets-hero-goto)
 
-## Data Cleaning and Preparation
--
+#### Data Cleaning and Preparation
+- Data cleaning which is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset
+- The data used was clean and analysed
 
-## Results Findings
+##### Results Findings
 
 | Heading 1 | Heading 2 | Heading 3 |
 | --------- | ----------| --------- |
