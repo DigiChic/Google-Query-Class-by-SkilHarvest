@@ -2,9 +2,9 @@
 
 **Documentation Outline**
 - [Project overview](#project-overview)
-- [Data Sources](data-sources)
-- [Tools for analysis](tools-for-analysis)
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
+- [Data Sources](#data-sources)
+- [Tools for analysis](#tools-for-analysis)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Results Findings](#results-findings)
 
   
