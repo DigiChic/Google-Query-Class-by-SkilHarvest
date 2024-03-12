@@ -60,6 +60,4 @@ Google Query is like a magical treasure chest for numbers and words.
 
 =QUERY(A:H, "SELECT A, B, C, F WHERE C LIKE '%sk' ", 1)
 
-| Heading 1 | Heading 2 | Heading 3 |
-| --------- | ----------| --------- |
-| Data 1 | Data 2 | Data 3 |
+
