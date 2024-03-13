@@ -36,7 +36,7 @@ Google Query is like a magical treasure chest for numbers and words.
 - Clean data ensures that the data analysed is consistent and can be analysed accurately
 - The data used was clean and then analysed
 
-# Results Findings
+# Results
 - The questions and answers from the data set is as listed below
   
 1. Show Sales rep of binder items and pencil
