@@ -38,7 +38,7 @@ Google Query is like a magical treasure chest for numbers and words.
 
 # Results Findings
 - The questions and answers from the data set is as listed below
-1. Show sales of binder items and pencil
+1. Show Salesrep of binder items and pencil
    
 =QUERY(A:H, "SELECT B, C WHERE C = 'Pen Set' OR C = 'Binder' ", 1)
 
