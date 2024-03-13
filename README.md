@@ -53,34 +53,34 @@ Google Query is like a magical treasure chest for numbers and words.
 ```
 =QUERY(A:H,"SELECT C,F,H WHERE (C = 'Binder' OR C = 'Pencil') AND F = 2015",1)
 ```
-
+![question2](question2.png)
 
 3. Sales in Central and East region in 2014
 
 ```
 =QUERY(A:H, "SELECT A,F,H WHERE (A = 'East' OR A = 'Central') AND F = 2014", 1)
 ```
-
+![question3](question3.png)
 
 4. Sales in August and September 2014
 
 ```
 =QUERY(A:H, "SELECT C,E,F,H WHERE (E = 'Aug' OR E = 'Sep') AND F = 2014 ", 1)
 ```
-
+![question4](question4.png)
 
 5. Show sales of items that start with Pen, include their region, sales rep and year
 
 ```
 =QUERY(A:H, "SELECT A, B, C, F, H WHERE C LIKE 'Pen%' ", 1)
 ```
-
+![question5](question5.png)
 
 6. Show sales of items that end with ‘sk’, include their region, sales rep and year
 
 ```
 =QUERY(A:H, "SELECT A, B, C, F WHERE C LIKE '%sk' ", 1)
 ```
-
+![question6](question6.png)
 
 
