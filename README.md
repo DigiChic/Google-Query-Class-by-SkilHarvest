@@ -44,7 +44,7 @@ Google Query is like a magical treasure chest for numbers and words.
 ```
 =QUERY(A:H, "SELECT B, C WHERE C = 'Pen Set' OR C = 'Binder' ", 1)
 ```
-
+![question1](question1.png)
 
 
 2. Show sales of binder items and pencil in 2015
