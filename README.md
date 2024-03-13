@@ -41,9 +41,12 @@ Google Query is like a magical treasure chest for numbers and words.
   
 1. Show Sales rep of binder items and pencil
    
-\\\
+\
+\
+\
 =QUERY(A:H, "SELECT B, C WHERE C = 'Pen Set' OR C = 'Binder' ", 1)
-\\\
+\
+\
 
 
 
